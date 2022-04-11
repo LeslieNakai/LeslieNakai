@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeslieNakai
+- 👋 Hi, I’m @LeslieZhang
 - 👀 I’m interested in business intelligent
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on everything
